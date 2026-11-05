@@ -128,28 +128,22 @@ An agent-driven RAG system that decides <b>whether retrieval is needed</b>, retr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pawankumarsani&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pawankumarsani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=Pawankumarsani&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pawankumarsani&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+<img src="https://img.shields.io/github/followers/Pawankumarsani?label=Followers&style=for-the-badge&color=0EA5E9&labelColor=0B1120" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/Focus-RAG%20%7C%20Agents%20%7C%20LLM%20Serving-1E3A8A?style=for-the-badge" alt="Focus" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-22C55E?style=for-the-badge" alt="Status" />
 
 </div>
+
 
 ---
 
 ## Contribution Activity
 
 <div align="center">
-
-**Contribution graph — last 31 days of commits, PRs, issues and reviews**
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pawankumarsani&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&point=0EA5E9&line=38BDF8&color=C9D1D9&title_color=38BDF8&bg_color=0D1117" width="100%" alt="Contribution activity graph" />
 
 </div>
 
