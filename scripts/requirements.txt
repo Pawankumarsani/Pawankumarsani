@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+pillow
+numpy
+opencv-python
+rembg
+onnxruntime

@@ -32,6 +32,21 @@
 
 <br>
 
+<div align="center">
+
+<h3><code>pawan@github ~ $ whoami</code></h3>
+
+<table>
+  <tr>
+    <td valign="top"><img src="./pawan-ascii.svg" width="370" alt="ASCII portrait" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="neofetch info card" /></td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
 ## About
 
 I design and build end-to-end AI systems — retrieval-augmented generation pipelines, multi-agent orchestration, and model serving — with a focus on making them production-ready rather than proof-of-concept.
